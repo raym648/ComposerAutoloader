@@ -1,0 +1,14 @@
+{
+    "name": "raym648/projet-test01",
+    "description": "Challenge Quete Composer 1 - Autoload",
+    "type": "n",
+    "license": "n",
+    "minimum-stability": "stable",
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
